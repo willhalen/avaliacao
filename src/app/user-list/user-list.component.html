@@ -1,0 +1,11 @@
+<div style="width: 700px; margin: 0 auto;">
+  <button class="btn btn-primary">Criar Novo Usuário</button>
+  <ul>
+    <li *ngFor="let user of users">
+      <label>{{ user.firstName }} {{ user.lastName }}</label>
+      <button class="btn btn-info" (click)="viewUser(user.id)">Ver Detalhes</button>
+      <button class="btn btn-warning" (click)="updateUser(user.id)">Editar</button>
+      <button class="btn btn-danger" (click)="deleteUser(user.id)">Excluir</button>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,10 @@
+<div *ngIf="user">
+  <h2>{{ user.firstName }} {{ user.lastName }}</h2>
+  <p>Email: {{ user.email }}</p>
+  <p>Data de Nascimento: {{ user.dateOfBirth }}</p>
+    <p><strong>ID:</strong> {{ user.id }}</p>
+    <p><strong>Nome:</strong> {{ user.name }}</p>
+    <p><strong>Email:</strong> {{ user.email }}</p>
+    <button class="btn btn-primary" routerLink="/user-list">Voltar para Lista de Usuários</button>
+  </div>
+  
