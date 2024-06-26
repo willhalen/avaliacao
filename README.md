@@ -35,4 +35,4 @@ Formulário de atualização de dados do usuário pelo ID disponibilizado na lis
 Toda vez que editar os inputs, salvar o formulário, se preocupar com quantidade de requisições para evitar sobre carga do servidor.
 
 
-https://raw.githubusercontent.com/willhalen/avaliacao/6969cabc8e129c414a63a10e9b41924d04a86334/src/images/capa.png
+<img src="https://raw.githubusercontent.com/willhalen/avaliacao/6969cabc8e129c414a63a10e9b41924d04a86334/src/images/capa.png"></img>
