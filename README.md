@@ -36,3 +36,5 @@ Toda vez que editar os inputs, salvar o formulário, se preocupar com quantidade
 
 
 <img src="https://raw.githubusercontent.com/willhalen/avaliacao/6969cabc8e129c414a63a10e9b41924d04a86334/src/images/capa.png"></img>
+
+**Willia S Santos - FrontEnd Developer Pl**
